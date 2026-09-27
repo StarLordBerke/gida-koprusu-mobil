@@ -19,6 +19,26 @@ Gıda Köprüsü platformunun tüm arayüzleri, renk psikolojisi ve görsel hiye
 
 <a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-web/blob/main/img/G%C4%B1da%20K%C3%B6pr%C3%BCs%C3%BC.png" alt="anasayfa" width="1200"/></a>
 
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-web/blob/main/img/G%C4%B1da%20K%C3%B6pr%C3%BCs%C3%BC.png" alt="anasayfa" width="1200"/></a>
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-web/blob/main/img/G%C4%B1da%20K%C3%B6pr%C3%BCs%C3%BC.png" alt="anasayfa" width="1200"/></a>
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-web/blob/main/img/G%C4%B1da%20K%C3%B6pr%C3%BCs%C3%BC.png" alt="anasayfa" width="1200"/></a>
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-web/blob/main/img/G%C4%B1da%20K%C3%B6pr%C3%BCs%C3%BC.png" alt="anasayfa" width="1200"/></a>
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-web/blob/main/img/G%C4%B1da%20K%C3%B6pr%C3%BCs%C3%BC.png" alt="anasayfa" width="1200"/></a>
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-web/blob/main/img/G%C4%B1da%20K%C3%B6pr%C3%BCs%C3%BC.png" alt="anasayfa" width="1200"/></a>
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-web/blob/main/img/G%C4%B1da%20K%C3%B6pr%C3%BCs%C3%BC.png" alt="anasayfa" width="1200"/></a>
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-web/blob/main/img/G%C4%B1da%20K%C3%B6pr%C3%BCs%C3%BC.png" alt="anasayfa" width="1200"/></a>
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-web/blob/main/img/G%C4%B1da%20K%C3%B6pr%C3%BCs%C3%BC.png" alt="anasayfa" width="1200"/></a>
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-web/blob/main/img/G%C4%B1da%20K%C3%B6pr%C3%BCs%C3%BC.png" alt="anasayfa" width="1200"/></a>
+
 ---
 
 ## 📖 Proje Hakkında
