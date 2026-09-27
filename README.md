@@ -19,25 +19,25 @@ Gıda Köprüsü platformunun tüm arayüzleri, renk psikolojisi ve görsel hiye
 
 <a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-mobil/blob/main/img/1.jpg" alt="anasayfa"/></a>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-web/blob/main/img/G%C4%B1da%20K%C3%B6pr%C3%BCs%C3%BC.png" alt="anasayfa" width="1200"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-mobil/blob/main/img/2.jpg" alt="anasayfa"/></a>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-web/blob/main/img/G%C4%B1da%20K%C3%B6pr%C3%BCs%C3%BC.png" alt="anasayfa" width="1200"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-mobil/blob/main/img/3.jpg" alt="anasayfa"/></a>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-web/blob/main/img/G%C4%B1da%20K%C3%B6pr%C3%BCs%C3%BC.png" alt="anasayfa" width="1200"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-mobil/blob/main/img/4.jpg" alt="anasayfa"/></a>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-web/blob/main/img/G%C4%B1da%20K%C3%B6pr%C3%BCs%C3%BC.png" alt="anasayfa" width="1200"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-mobil/blob/main/img/5.jpg" alt="anasayfa"/></a>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-web/blob/main/img/G%C4%B1da%20K%C3%B6pr%C3%BCs%C3%BC.png" alt="anasayfa" width="1200"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-mobil/blob/main/img/6.jpg" alt="anasayfa"/></a>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-web/blob/main/img/G%C4%B1da%20K%C3%B6pr%C3%BCs%C3%BC.png" alt="anasayfa" width="1200"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-mobil/blob/main/img/7.jpg" alt="anasayfa"/></a>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-web/blob/main/img/G%C4%B1da%20K%C3%B6pr%C3%BCs%C3%BC.png" alt="anasayfa" width="1200"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-mobil/blob/main/img/8.jpg" alt="anasayfa"/></a>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-web/blob/main/img/G%C4%B1da%20K%C3%B6pr%C3%BCs%C3%BC.png" alt="anasayfa" width="1200"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-mobil/blob/main/img/9.jpg" alt="anasayfa"/></a>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-web/blob/main/img/G%C4%B1da%20K%C3%B6pr%C3%BCs%C3%BC.png" alt="anasayfa" width="1200"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-mobil/blob/main/img/10.jpg" alt="anasayfa"/></a>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-web/blob/main/img/G%C4%B1da%20K%C3%B6pr%C3%BCs%C3%BC.png" alt="anasayfa" width="1200"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-mobil/blob/main/img/11.jpg" alt="anasayfa"/></a>
 
 ---
 
