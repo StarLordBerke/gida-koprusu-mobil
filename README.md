@@ -7,7 +7,11 @@
 
 **Gıda Köprüsü**, gıda israfını önlemeyi, ihtiyaç sahiplerine destek olmayı ve çevre bilincini artırmayı hedefleyen yeni nesil bir sosyal dayanışma platformudur. İşletmelerin elde kalan ürünlerini değerlendirmesini sağlarken, gönüllülerin ve ihtiyaç sahiplerinin bir araya geldiği bir köprü görevi görür.
 
-🚀 **[Canlı Demo'yu İncelemek İçin Tıklayın]({BURAYA_CANLI_LINK_GELECEK})**
+## 🌐 Canlı Web Sitesi & Demo Bağlantıları
+
+Platformu tarayıcınız üzerinden canlı olarak deneyimleyebilir, interaktif haritayı inceleyebilir ve yapay zeka destekli ihbar sistemini test edebilirsiniz:
+
+- 🚀 **Canlı Uygulama (Canlıya Alınmış Hali):** [https://yet-gen.vercel.app/](https://yet-gen.vercel.app/)
 
 ---
 
