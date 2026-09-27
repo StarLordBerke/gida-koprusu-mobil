@@ -13,6 +13,12 @@ Platformu tarayıcınız üzerinden canlı olarak deneyimleyebilir, interaktif h
 
 - 🚀 **Canlı Uygulama (Canlıya Alınmış Hali):** [https://yet-gen.vercel.app/](https://yet-gen.vercel.app/)
 
+## 📸 Proje Görselleri ve Arayüz Galerisi
+
+Gıda Köprüsü platformunun tüm arayüzleri, renk psikolojisi ve görsel hiyerarşi kurallarına uygun olarak masaüstü, tablet ve mobil cihazlar için özel olarak geliştirilmiştir.
+
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-web/blob/main/img/G%C4%B1da%20K%C3%B6pr%C3%BCs%C3%BC.png" alt="anasayfa" width="1200"/></a>
+
 ---
 
 ## 📖 Proje Hakkında
@@ -79,14 +85,14 @@ Uygulamanın içindeyken sağ alt köşede bulunan **"Expo (React Native) Kodunu
 
 ---
 
-## 🤝 Katkıda Bulunma
+## 🤝 Katkıda Bulunanlar ve Görev Dağılımı 
 
-Bu proje açık kaynaklıdır ve her türlü katkıya (Pull Request, Issue, vb.) açıktır. Katkıda bulunmak isterseniz:
-1. Projeyi *Fork*'layın.
-2. Yeni bir özellik dalı oluşturun (`git checkout -b ozellik/YeniHarikaOzellik`).
-3. Değişikliklerinizi commit edin (`git commit -m 'Yeni bir harika özellik eklendi'`).
-4. Dalınızı push edin (`git push origin ozellik/YeniHarikaOzellik`).
-5. Bir *Pull Request* (Çekme İsteği) açın.
+Bu proje YetGen mezuniyet projemizdir. Proje kapsamında ekimizdeki çalışma arkadaşlarımızın görev dağılımı ve sorumlulukları aşağıda belirtilmiştir.
+
+*   **Berke Mert ÖZTÜRK:** Web sitesi ve mobil uygulama  geliştirme.
+*   **Ayşegül ORAL:** Sunum içeriği hazırlığı.
+*   **Ela Doğa GÖKMEN:** Sunum içeriği hazırlığı.
+*   **Sude BİLİR:** Sunum konuşma metninin kurgusu ve final sunumu.
 
 ---
 
@@ -96,3 +102,6 @@ Bu proje **MIT Lisansı** altında lisanslanmıştır. Detaylar için `LICENSE` 
 
 ---
 *İyiliği paylaş, israfı önle. 🌍💚*
+
+---
+*Geliştirici: Berke Mert Öztürk*
