@@ -17,27 +17,27 @@ Platformu tarayıcınız üzerinden canlı olarak deneyimleyebilir, interaktif h
 
 Gıda Köprüsü platformunun tüm arayüzleri, renk psikolojisi ve görsel hiyerarşi kurallarına uygun olarak masaüstü, tablet ve mobil cihazlar için özel olarak geliştirilmiştir.
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-mobil/blob/main/img/1.jpg" alt="anasayfa"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke/gida-koprusu-mobil/blob/main/img/1.jpg" alt="anasayfa"/></a>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-mobil/blob/main/img/2.jpg" alt="anasayfa"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke/gida-koprusu-mobil/blob/main/img/2.jpg" alt="anasayfa"/></a>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-mobil/blob/main/img/3.jpg" alt="anasayfa"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke/gida-koprusu-mobil/blob/main/img/3.jpg" alt="anasayfa"/></a>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-mobil/blob/main/img/4.jpg" alt="anasayfa"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke/gida-koprusu-mobil/blob/main/img/4.jpg" alt="anasayfa"/></a>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-mobil/blob/main/img/5.jpg" alt="anasayfa"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke/gida-koprusu-mobil/blob/main/img/5.jpg" alt="anasayfa"/></a>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-mobil/blob/main/img/6.jpg" alt="anasayfa"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke/gida-koprusu-mobil/blob/main/img/6.jpg" alt="anasayfa"/></a>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-mobil/blob/main/img/7.jpg" alt="anasayfa"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke/gida-koprusu-mobil/blob/main/img/7.jpg" alt="anasayfa"/></a>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-mobil/blob/main/img/8.jpg" alt="anasayfa"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke/gida-koprusu-mobil/blob/main/img/8.jpg" alt="anasayfa"/></a>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-mobil/blob/main/img/9.jpg" alt="anasayfa"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke/gida-koprusu-mobil/blob/main/img/9.jpg" alt="anasayfa"/></a>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-mobil/blob/main/img/10.jpg" alt="anasayfa"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke/gida-koprusu-mobil/blob/main/img/10.jpg" alt="anasayfa"/></a>
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/gida-koprusu-mobil/blob/main/img/11.jpg" alt="anasayfa"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke/gida-koprusu-mobil/blob/main/img/11.jpg" alt="anasayfa"/></a>
 
 ---
 
