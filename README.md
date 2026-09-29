@@ -120,7 +120,6 @@ Bu proje YetGen mezuniyet projemizdir. Proje kapsamında ekimizdeki çalışma a
 
 Bu proje **MIT Lisansı** altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına göz atabilirsiniz.
 
----
 *İyiliği paylaş, israfı önle. 🌍💚*
 
 ---
